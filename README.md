@@ -9,6 +9,8 @@ gray = cv2.cvtColor(image_copy, cv2.COLOR_RGB2GRAY)
 
 plt.imshow(gray, cmap="gray")
 ```
+![ss1](https://user-images.githubusercontent.com/47830409/63925319-89d3d100-ca52-11e9-8455-4c1ed821cb75.PNG)
+
 ### we need lower and upper for Canny
 ```sh
 lower = 120

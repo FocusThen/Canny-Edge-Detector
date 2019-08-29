@@ -17,6 +17,7 @@ upper = 240
 edges = cv2.Canny(gray, lower, upper)
 plt.imshow(edges, cmap="gray")
 ```
+#### More details for [Canny](https://docs.opencv.org/3.1.0/da/d22/tutorial_py_canny.html)
 
 ![ss2](https://user-images.githubusercontent.com/47830409/63924662-50e72c80-ca51-11e9-9fb4-fdf22b3e74a0.PNG)
 

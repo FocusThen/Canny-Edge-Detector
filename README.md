@@ -1,4 +1,4 @@
-# Canny-Edge-Detector
+# Canny Edge Detector
 
 ### Orginal image
 ![sunflower](https://user-images.githubusercontent.com/47830409/63924154-7293e400-ca50-11e9-854a-25f133625d74.jpg)
